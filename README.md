@@ -1,16 +1,17 @@
-# React + Vite
+# 📑 프로젝트명:
+슈킹 신발 쇼핑몰 만들기
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🖥️ 사용 기술: 
+React
 
-Currently, two official plugins are available:
+## 🧑‍💻 문서 작성자
+완두앙금빵
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 구현할 기능 목록
+- 상품 목록 이름과 해당 상품 목록에 몇 개의 상품이 있는지 알려주는 문장 표시
+- 모서리가 둥근 상품 카드
+- 이미지가 포함된 상품 카드
+- 2개의 컬럼으로 구성된 상품 목록 레이아웃
+- 상품 카드에서 담기 버튼과 담김 상태 변화
+- 상품 카드 상품 이미지, 상품명, 간단한 상품 소개, 가격, 담기 버튼으로 구성
+- 담기 버튼을 누른 후, 헤더에 담긴 상품의 갯수 변화
