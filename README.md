@@ -2,7 +2,10 @@
 슈킹 신발 쇼핑몰 만들기
 
 ## 🖥️ 사용 기술: 
-React
+- React
+- Tailwind CSS
+- Vite
+- Vitest
 
 ## 🧑‍💻 문서 작성자
 완두앙금빵
